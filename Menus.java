@@ -25,12 +25,6 @@ public class Menus {
      * @param args arguments.
      * @throws FileNotFoundException fileNoteFound.
      */
-    //TODO'S
-    //TODO: Add Allergies File (& add list of Allergies to Private List on top // Exclude Foods)
-    //TODO: Done.
-    //TODO: Done.
-    //TODO: Clean Code. (New Page?)
-    //TODO: Work on Excel aspect...
 
     public static void main(String[] args) throws IOException {
         //Read from a file
