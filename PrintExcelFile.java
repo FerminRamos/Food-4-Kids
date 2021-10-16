@@ -17,7 +17,6 @@ public class PrintExcelFile {
         Cell updatedCell = sheet.getRow(3).getCell(2);
         updatedCell.setCellValue("Name: Lidia Ramos");
         //Provider #
-        //TODO: Find Provider #
         updatedCell = sheet.getRow(3).getCell(3);
         updatedCell.setCellValue("#######");
         //Phone #
