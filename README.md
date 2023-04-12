@@ -1,5 +1,5 @@
 # Food-4-Kids
-Designed and programmed a Java script for creating weekly nutritional menus on MS Excel for my family’s local business. Files upload on GitHub are modified, as to not reveal sensitive information.
+Designed and programmed a Java script for creating weekly nutritional menus on MS Excel for a local business. Files upload on GitHub are modified, as to not reveal sensitive information.
 
 ### Included Files + Usage
 1. ***"Menus.java"*** - Is the main java page. Reads food items from "Food Items" folder. Randomizes weekly food items and checks that food items do ***NOT*** repeat more than two times ***in a row***. Also calls PrintExcelFile.java to print data into a Microsoft Excel Spreadsheet. 
